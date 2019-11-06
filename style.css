@@ -10,3 +10,86 @@ html {
   margin: 30px auto 0; /* top, rightleft, bottom */
   box-shadow: 10px 10px 0px #8d8d8d;
 }
+
+#toprow {
+  height: 290px;
+}
+
+#bigbox {
+  width: 290px;
+  height: 290px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.right {
+  float: right;
+}
+
+#divider1 {
+  height: 290px;
+  width: 10px;
+}
+
+.mediumbox {
+  width: 100px;
+  height: 140px;
+}
+
+#divider2 {
+  height: 10px;
+  width: 100px;
+}
+
+#divider3 {
+  height: 10px;
+  width: 400px;
+}
+
+#middlerow {
+  height: 110px;
+}
+
+#smallestbox {
+  height: 45px;
+  width: 40px;
+}
+
+#divider4 {
+  height: 10px;
+  width: 40px;
+}
+
+#divider5 {
+  width: 10px;
+  height: 100px;
+}
+
+#longbox {
+  width: 240px;
+  height: 100px;
+}
+
+#divider6 {
+  width: 10px;
+  height: 100px;
+}
+
+#cornerbox {
+  width: 100px;
+  height: 100px;
+}
